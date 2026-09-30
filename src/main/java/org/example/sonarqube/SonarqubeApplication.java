@@ -9,5 +9,4 @@ public class SonarqubeApplication {
     public static void main(String[] args) {
         SpringApplication.run(SonarqubeApplication.class, args);
     }
-
 }
